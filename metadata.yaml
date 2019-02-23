@@ -1,11 +1,16 @@
 _repo: The-Little-Room-and-Other-Stories_58855
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 58855-h/images/cover.jpg
 creator:
   author:
     agent_name: Wynne, Madelene Yale
     gutenberg_agent_id: '50182'
     url: http://www.gutenberg.org/2009/agents/50182
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58855#The-Little-Room-and-Other-Stories
 gutenberg_issued: '2019-02-10'
 gutenberg_type: Text
 identifiers:
